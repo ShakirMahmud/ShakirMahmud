@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://github.com/ShakirMahmud/ShakirMahmud/blob/main/github-header-image.png(1))
+![Banner](https://github.com/ShakirMahmud/ShakirMahmud/blob/main/github-header-image%20(1).png)
 
 # Hello World! I'm Md. Shakir Mahmud 👋
 
@@ -17,31 +17,27 @@ I'm on a focused mission to evolve into a **Senior Full-Stack Developer** by 202
 - Continuous learning and staying ahead of tech trends
 
 ### 🌱 Current Focus
-- Mastering **TypeScript** for better code reliability
-- Exploring **GraphQL** for efficient data querying
+- Mastering **React.js** ecosystem and advanced patterns
+- Learning **Data Structures & Algorithms**
 - Diving deep into **System Design** principles
 - Building scalable applications with best practices
 
 ## 🛠️ Technical Skills
 
-### Frontend Development
-| Technology | Skills |
-|------------|---------|
-| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | **Core**: HTML5, CSS3, JavaScript (ES6+) |
-| ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) | **Frameworks**: React.js, Next.js |
-| ![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg) | **Styling**: Tailwind CSS, CSS Modules |
+<div align="center">
 
-### Backend Development
-| Technology | Skills |
-|------------|---------|
-| ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) | **Runtime & Framework**: Node.js, Express.js |
-| ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) ![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg) | **Databases**: MongoDB, Firebase |
+### Frontend Development & Backend Development
+| Frontend Technologies | Backend Technologies |
+|----------------------|---------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/> |
 
 ### Tools & Version Control
-| Technology | Skills |
-|------------|---------|
-| ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) | **Version Control**: Git, GitHub |
-| ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) ![NPM](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg) | **Tools**: VS Code, npm |
+| Development Tools |
+|------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> |
+
+</div>
 
 ## 📊 GitHub Metrics
 
@@ -49,7 +45,7 @@ I'm on a focused mission to evolve into a **Senior Full-Stack Developer** by 202
 
 | 🔥 Streak Stats | 📈 GitHub Stats | 
 |----------------|-----------------|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShakirMahmud&theme=radical)](https://git.io/streak-stats) | ![Shakir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShakirMahmud&show_icons=true&theme=radical) |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=ShakirMahmud&theme=radical)](https://git.io/streak-stats) | ![Shakir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShakirMahmud&show_icons=true&theme=radical) |
 
 | 🚀 Most Used Languages |
 |-----------------------|
