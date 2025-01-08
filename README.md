@@ -1,6 +1,4 @@
-Here's the direct code for you to copy and paste into your GitHub README.md file - I've removed the artifact tags and other formatting so you can directly use it:
 
-```markdown
 <!-- Banner -->
 ![Banner](https://github.com/ShakirMahmud/ShakirMahmud/blob/main/github-header-image.png)
 
@@ -106,7 +104,6 @@ const devOpsSkills = {
 - 📚 Always have a technical book in progress
 - ☕ Powered by Tea and curiosity
 
----
 
 <div align="center">
 
