@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://github.com/ShakirMahmud/ShakirMahmud/blob/main/github-header-image%20(1).png)
+![Banner](https://github.com/ShakirMahmud/ShakirMahmud/blob/main/github-header-image%20(3).png)
 
 # Hello World! I'm Md. Shakir Mahmud 👋
 
