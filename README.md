@@ -44,7 +44,7 @@ I'm on a focused mission to evolve into a **Senior Full-Stack Developer** by 202
 <div align="center">
 
 |  📈 GitHub Stats | 
-|----------------|-----------------|
+|-----------------|
 | ![Shakir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShakirMahmud&show_icons=true&theme=radical) |
 
 | 🚀 Most Used Languages |
