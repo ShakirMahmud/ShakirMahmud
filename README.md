@@ -43,9 +43,9 @@ I'm on a focused mission to evolve into a **Senior Full-Stack Developer** by 202
 
 <div align="center">
 
-| 🔥 Streak Stats | 📈 GitHub Stats | 
+|  📈 GitHub Stats | 
 |----------------|-----------------|
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=ShakirMahmud&theme=radical)](https://git.io/streak-stats) | ![Shakir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShakirMahmud&show_icons=true&theme=radical) |
+| ![Shakir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShakirMahmud&show_icons=true&theme=radical) |
 
 | 🚀 Most Used Languages |
 |-----------------------|
