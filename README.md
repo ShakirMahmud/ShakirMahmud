@@ -50,9 +50,9 @@ I'm on a focused mission to evolve into a **Senior Full-Stack Developer** by 202
 | 🚀 Most Used Languages |
 |-----------------------|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakirMahmud&layout=compact&theme=radical) |
-| 🚀 Streak Stats |
-|-----------------------|
-| ![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ShakirMahmud&theme=dark)](https://git.io/streak-stats). |
+| ![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ShakirMahmud&theme=dark) |
+
+
 
 </div>
 
